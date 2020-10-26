@@ -3,9 +3,9 @@
 This is a fork of Chris Titus Tech's win10script repo.   
 I have and will be making some modifications for my own use.  Please read before using. 
 
-This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
+This is the Ultimate Windows 10 Debloater Script from a creation of multiple debloat scripts and gists from github. 
 
-## My Additions
+## CTT Additions
 
 - Dark Mode
 - One Command to launch and run
@@ -32,3 +32,4 @@ Comment any thing you don't want out... Example:
 	"SetUACHigh",
 	"EnableSMB1",
 ```
+Enjoy!
