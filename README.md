@@ -1,4 +1,4 @@
-# win10script
+# win10debloater
 
 This is a fork of Chris Titus Tech's win10script repo.   
 I have and will be making some modifications for my own use.  Please read before using. 
