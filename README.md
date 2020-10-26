@@ -1,7 +1,8 @@
 # win10debloater
 
 This is a fork of Chris Titus Tech's (CTT) win10script repo.   
-I have and will be making some modifications for my own use.  Please read before using. 
+I have and will be making some modifications for my own use.  Please read before using. Changes you make using this script can be reversed
+since it creates a Windows restore point. 
 
 This is the Ultimate Windows 10 Debloater Script from a creation of multiple debloat scripts and gists from github. 
 
